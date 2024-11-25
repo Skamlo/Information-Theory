@@ -1,0 +1,44 @@
+{
+    "sample0": {
+        "0_order_level": 7.748741386140158,
+        "1_order_level": 7.486391705241922,
+        "2_order_level": 4.406703462209523,
+        "3_order_level": 0.5950087061879875,
+        "4_order_level": 0.012062127698810387
+    },
+    "sample1": {
+        "0_order_level": 11.500644509142429,
+        "1_order_level": 5.372229947600195,
+        "2_order_level": 1.5747348143640314,
+        "3_order_level": 0.5075112949821216,
+        "4_order_level": 0.2934580669379841
+    },
+    "sample2": {
+        "0_order_level": 8.023869815826421,
+        "1_order_level": 7.348623166135364,
+        "2_order_level": 3.7819360988976753,
+        "3_order_level": 0.8595059631100335,
+        "4_order_level": 0.08199123582444413
+    },
+    "sample3": {
+        "0_order_level": 9.061119324692852,
+        "1_order_level": 5.950220848456434,
+        "2_order_level": 2.6308074182226155,
+        "3_order_level": 1.2640914239255359,
+        "4_order_level": 0.4143273949719864
+    },
+    "sample4": {
+        "0_order_level": 17.129301993706807,
+        "1_order_level": 3.444019676863853,
+        "2_order_level": 0.23406796936123722,
+        "3_order_level": 0.0032274276117646447,
+        "4_order_level": 7.608894145064654e-06
+    },
+    "sample5": {
+        "0_order_level": 16.509350648881156,
+        "1_order_level": 0.0,
+        "2_order_level": 0.0,
+        "3_order_level": 0.0,
+        "4_order_level": 0.0
+    }
+}
